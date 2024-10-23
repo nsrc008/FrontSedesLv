@@ -54,7 +54,7 @@ Para generar los archivos estáticos de producción, ejecuta:
 
 Los archivos generados se almacenarán en la carpeta dist/, listos para ser desplegados en un servidor.
 
-### 5. Pruebas Unitarias
+## Pruebas Unitarias
 
 Para ejecutar las pruebas unitarias del proyecto, ejecuta:
 
