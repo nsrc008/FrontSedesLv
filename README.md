@@ -142,6 +142,7 @@ Puedes utilizar los siguientes comandos para desarrollar o construir la aplicaci
 - `npm run dev`: Ejecuta la aplicación en modo desarrollo.
 - `npm run build`: Construye la aplicación optimizada para producción.
 - `npm run start`: Sirve la aplicación construida.
+- `npm test`: Ejecuta las pruebas unitarias.
 
 ## Dependencias
 
