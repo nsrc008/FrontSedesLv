@@ -56,9 +56,8 @@ Los archivos generados se almacenarán en la carpeta dist/, listos para ser desp
 
 ## Pruebas Unitarias
 
-Para ejecutar las pruebas unitarias del proyecto, ejecuta:
+Para ejecutar las pruebas unitarias del proyecto, ejecuta: `npm test`
 
-`npm test`
 
 Los archivos generados se almacenarán en la carpeta dist/, listos para ser desplegados en un servidor.
 
