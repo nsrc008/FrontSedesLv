@@ -20,8 +20,8 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local:
 Clona este repositorio en tu máquina local usando git:
 
 ```
-git clone https://github.com/nsrc008/FrontSedesLv.git
-cd nombre-del-proyecto
+git clone https://github.com/nsrc008/FrontSedesRc.git
+cd FrontSedesRc
 ```
 
 ### 2. Instalar dependencias
